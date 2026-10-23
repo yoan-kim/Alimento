@@ -1,0 +1,6 @@
+{
+  "name": "Parábolas 99 — 스페인어 비유 99문항 일일 학습 & 복습 시스템",
+  "description": "첫날 10문항, 둘째 날부터 신규 5문항 + 누적 학습 범위 내 랜덤 복습 5문항으로 구성된 스페인어-한국어 성경 비유 99문항 학습 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
